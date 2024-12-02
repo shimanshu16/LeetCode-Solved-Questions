@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shimanshu16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shimanshu16/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/shimanshu16/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shimanshu16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shimanshu16/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shimanshu16/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shimanshu16/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/shimanshu16/LeetCode/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shimanshu16/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
 ## Counting
