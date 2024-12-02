@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/shimanshu16/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shimanshu16/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/shimanshu16/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shimanshu16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shimanshu16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/shimanshu16/LeetCode/tree/master/0075-sort-colors) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shimanshu16/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shimanshu16/LeetCode/tree/master/0054-spiral-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shimanshu16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -99,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/shimanshu16/LeetCode/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shimanshu16/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
