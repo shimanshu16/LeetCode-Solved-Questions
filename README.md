@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/shimanshu16/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shimanshu16/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
@@ -112,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shimanshu16/LeetCode/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
