@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shimanshu16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2902-max-pair-sum-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3429-special-array-i](https://github.com/shimanshu16/LeetCode/tree/master/3429-special-array-i) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2902-max-pair-sum-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 ## Sorting
 |  |
 | ------- |
