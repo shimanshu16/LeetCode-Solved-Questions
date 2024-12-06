@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1580-shuffle-the-array](https://github.com/shimanshu16/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/shimanshu16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shimanshu16/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/shimanshu16/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
