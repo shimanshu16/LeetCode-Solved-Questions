@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shimanshu16/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1904-second-largest-digit-in-a-string](https://github.com/shimanshu16/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2902-max-pair-sum-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
 ## Sorting
 |  |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1904-second-largest-digit-in-a-string](https://github.com/shimanshu16/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
