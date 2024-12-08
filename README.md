@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shimanshu16/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shimanshu16/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/shimanshu16/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shimanshu16/LeetCode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shimanshu16/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shimanshu16/LeetCode/tree/master/0283-move-zeroes) |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/shimanshu16/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shimanshu16/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
@@ -318,4 +322,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shimanshu16/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
