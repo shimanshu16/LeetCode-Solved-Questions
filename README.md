@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shimanshu16/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/shimanshu16/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shimanshu16/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
@@ -320,7 +321,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shimanshu16/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/shimanshu16/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shimanshu16/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
