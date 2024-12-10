@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shimanshu16/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shimanshu16/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/shimanshu16/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shimanshu16/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
