@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shimanshu16/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shimanshu16/LeetCode/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/shimanshu16/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shimanshu16/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shimanshu16/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/shimanshu16/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shimanshu16/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shimanshu16/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/shimanshu16/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shimanshu16/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/shimanshu16/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shimanshu16/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shimanshu16/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
