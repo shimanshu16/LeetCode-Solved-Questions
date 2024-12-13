@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/shimanshu16/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shimanshu16/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shimanshu16/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/shimanshu16/LeetCode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/shimanshu16/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/shimanshu16/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/shimanshu16/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/shimanshu16/LeetCode/tree/master/0060-permutation-sequence) |
 ## Sliding Window
 |  |
 | ------- |
