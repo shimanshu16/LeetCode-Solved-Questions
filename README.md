@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/shimanshu16/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shimanshu16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shimanshu16/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/shimanshu16/LeetCode/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/shimanshu16/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/shimanshu16/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shimanshu16/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shimanshu16/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shimanshu16/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shimanshu16/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/shimanshu16/LeetCode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/shimanshu16/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shimanshu16/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
@@ -351,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shimanshu16/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shimanshu16/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shimanshu16/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
