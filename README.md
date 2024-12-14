@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/shimanshu16/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shimanshu16/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shimanshu16/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/shimanshu16/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/shimanshu16/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shimanshu16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shimanshu16/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/shimanshu16/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shimanshu16/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/shimanshu16/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/shimanshu16/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/shimanshu16/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
