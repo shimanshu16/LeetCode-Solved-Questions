@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/shimanshu16/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shimanshu16/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shimanshu16/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/shimanshu16/LeetCode/tree/master/0071-simplify-path) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0065-valid-number](https://github.com/shimanshu16/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/shimanshu16/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shimanshu16/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/shimanshu16/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/shimanshu16/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
