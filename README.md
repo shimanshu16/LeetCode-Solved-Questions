@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/shimanshu16/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shimanshu16/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shimanshu16/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/shimanshu16/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shimanshu16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/shimanshu16/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/shimanshu16/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shimanshu16/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/shimanshu16/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/shimanshu16/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shimanshu16/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shimanshu16/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/shimanshu16/LeetCode/tree/master/0076-minimum-window-substring) |
 ## Trie
 |  |
 | ------- |
