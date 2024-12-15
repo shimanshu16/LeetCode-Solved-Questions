@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/shimanshu16/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shimanshu16/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shimanshu16/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/shimanshu16/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/shimanshu16/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shimanshu16/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shimanshu16/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/shimanshu16/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/shimanshu16/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shimanshu16/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/shimanshu16/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shimanshu16/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shimanshu16/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/shimanshu16/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/shimanshu16/LeetCode/tree/master/0090-subsets-ii) |
 ## String Matching
 |  |
