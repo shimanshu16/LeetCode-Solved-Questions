@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/shimanshu16/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/shimanshu16/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shimanshu16/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
@@ -566,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/shimanshu16/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
@@ -587,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
