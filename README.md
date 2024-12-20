@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shimanshu16/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shimanshu16/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shimanshu16/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shimanshu16/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/shimanshu16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shimanshu16/LeetCode/tree/master/0229-majority-element-ii) |
@@ -425,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
@@ -537,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shimanshu16/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -571,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shimanshu16/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
