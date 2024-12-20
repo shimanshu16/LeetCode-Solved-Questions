@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/shimanshu16/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shimanshu16/LeetCode/tree/master/0229-majority-element-ii) |
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0148-sort-list) |
 ## Recursion
