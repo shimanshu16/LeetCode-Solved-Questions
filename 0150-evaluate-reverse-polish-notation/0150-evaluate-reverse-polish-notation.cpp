@@ -7,7 +7,7 @@ public:
             return stoi(s);
         int n2=f(tokens);
         int n1=f(tokens);
-    //    cout<<n1<<", "<<n2<<s<<endl;
+        
         switch(s[0]){
             case '+': return n1+n2; 
             case '-': return n1-n2; 
