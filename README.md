@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/shimanshu16/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shimanshu16/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shimanshu16/LeetCode/tree/master/0229-majority-element-ii) |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/shimanshu16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/shimanshu16/LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/shimanshu16/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
@@ -716,4 +719,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
