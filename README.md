@@ -492,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/shimanshu16/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
