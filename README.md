@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shimanshu16/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/shimanshu16/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0174-dungeon-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/shimanshu16/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shimanshu16/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0174-dungeon-game) |
 | [1677-matrix-diagonal-sum](https://github.com/shimanshu16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
