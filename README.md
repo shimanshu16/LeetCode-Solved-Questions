@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/shimanshu16/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shimanshu16/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
