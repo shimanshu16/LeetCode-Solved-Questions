@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
