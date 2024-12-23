@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shimanshu16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
