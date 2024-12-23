@@ -586,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/shimanshu16/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/shimanshu16/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
