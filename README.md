@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shimanshu16/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shimanshu16/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shimanshu16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
