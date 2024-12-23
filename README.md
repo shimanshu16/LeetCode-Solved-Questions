@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shimanshu16/LeetCode/tree/master/0229-majority-element-ii) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shimanshu16/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shimanshu16/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
@@ -527,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Union Find
 |  |
@@ -610,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shimanshu16/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shimanshu16/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 ## Trie
 |  |
 | ------- |
