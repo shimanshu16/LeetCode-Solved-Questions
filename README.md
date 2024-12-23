@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/shimanshu16/LeetCode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shimanshu16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/shimanshu16/LeetCode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/shimanshu16/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shimanshu16/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
@@ -593,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/shimanshu16/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shimanshu16/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shimanshu16/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 ## Trie
 |  |
 | ------- |
@@ -773,4 +777,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0173-binary-search-tree-iterator) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
