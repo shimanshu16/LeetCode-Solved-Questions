@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -661,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shimanshu16/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0214-shortest-palindrome) |
 ## Combinatorics
 |  |
 | ------- |
@@ -821,10 +823,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0214-shortest-palindrome) |
 ## Enumeration
 |  |
 | ------- |
