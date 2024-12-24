@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shimanshu16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shimanshu16/LeetCode/tree/master/0229-majority-element-ii) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/shimanshu16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -627,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -650,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
 ## String Matching
 |  |
 | ------- |
