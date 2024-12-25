@@ -731,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -758,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -790,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -821,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 ## Graph
 |  |
 | ------- |
