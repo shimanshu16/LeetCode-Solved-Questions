@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shimanshu16/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -838,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0223-rectangle-area) |
 ## Iterator
 |  |
 | ------- |
