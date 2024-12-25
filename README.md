@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/shimanshu16/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
