@@ -464,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0223-rectangle-area](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
