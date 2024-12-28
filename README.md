@@ -441,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/shimanshu16/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/shimanshu16/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shimanshu16/LeetCode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -919,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
 ## Topological Sort
 |  |
 | ------- |
