@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/shimanshu16/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shimanshu16/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/shimanshu16/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -581,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 ## Greedy
