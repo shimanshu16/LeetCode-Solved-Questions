@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0279-perfect-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0279-perfect-squares) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -890,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0279-perfect-squares) |
 ## Graph
 |  |
 | ------- |
