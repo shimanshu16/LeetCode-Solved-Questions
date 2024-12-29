@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/shimanshu16/LeetCode/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
@@ -916,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -929,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0284-peeking-iterator) |
 ## Rolling Hash
 |  |
 | ------- |
