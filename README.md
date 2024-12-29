@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/shimanshu16/LeetCode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0289-game-of-life) |
 | [1677-matrix-diagonal-sum](https://github.com/shimanshu16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/shimanshu16/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shimanshu16/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0289-game-of-life) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
