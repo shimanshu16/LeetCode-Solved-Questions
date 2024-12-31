@@ -584,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1904-second-largest-digit-in-a-string](https://github.com/shimanshu16/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -767,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0306-additive-number) |
 ## String Matching
 |  |
 | ------- |
