@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0313-super-ugly-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0313-super-ugly-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
