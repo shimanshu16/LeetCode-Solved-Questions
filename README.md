@@ -534,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0282-expression-add-operators](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0319-bulb-switcher) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -1048,6 +1049,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
