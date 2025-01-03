@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/shimanshu16/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shimanshu16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -666,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Union Find
 |  |
