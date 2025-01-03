@@ -907,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0332-reconstruct-itinerary) |
 ## Binary Tree
 |  |
 | ------- |
@@ -994,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0332-reconstruct-itinerary) |
 ## Design
 |  |
 | ------- |
@@ -1081,4 +1083,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0292-nim-game) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
