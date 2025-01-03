@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0324-wiggle-sort-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0330-patching-array) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -655,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0330-patching-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Quickselect
 |  |
