@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0313-super-ugly-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -647,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
