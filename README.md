@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0336-palindrome-pairs) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/shimanshu16/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0336-palindrome-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0336-palindrome-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -797,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0336-palindrome-pairs) |
 ## Backtracking
 |  |
 | ------- |
