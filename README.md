@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/shimanshu16/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shimanshu16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1904-second-largest-digit-in-a-string](https://github.com/shimanshu16/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
@@ -688,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Union Find
 |  |
