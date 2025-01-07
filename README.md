@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0335-self-crossing](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/shimanshu16/LeetCode/tree/master/0792-binary-search) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/shimanshu16/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/shimanshu16/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -391,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0299-bulls-and-cows](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -425,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
