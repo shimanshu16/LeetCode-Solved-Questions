@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0335-self-crossing](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -872,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0282-expression-add-operators](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 ## String Matching
 |  |
 | ------- |
