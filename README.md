@@ -593,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0365-water-and-jug-problem) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -984,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0365-water-and-jug-problem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1064,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0365-water-and-jug-problem) |
 ## Graph
 |  |
 | ------- |
