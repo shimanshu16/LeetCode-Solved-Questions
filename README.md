@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0324-wiggle-sort-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0372-super-pow) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
