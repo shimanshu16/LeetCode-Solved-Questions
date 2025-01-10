@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -1187,6 +1189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
