@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0376-wiggle-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0376-wiggle-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -736,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0324-wiggle-sort-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0376-wiggle-subsequence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Quickselect
 |  |
