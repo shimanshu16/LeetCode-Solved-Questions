@@ -621,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0382-linked-list-random-node](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0382-linked-list-random-node) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -844,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0382-linked-list-random-node) |
 ## Recursion
 |  |
 | ------- |
@@ -1208,4 +1210,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0332-reconstruct-itinerary) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
