@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0382-linked-list-random-node) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
@@ -1131,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Doubly-Linked List
 |  |
@@ -1221,6 +1225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
