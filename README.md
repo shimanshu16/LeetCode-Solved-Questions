@@ -905,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
@@ -1037,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0341-flatten-nested-list-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
