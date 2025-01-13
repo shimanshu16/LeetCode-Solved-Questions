@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0388-longest-absolute-file-path) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
@@ -714,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0388-longest-absolute-file-path) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1524-string-matching-in-an-array) |
@@ -1045,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0388-longest-absolute-file-path) |
 ## Binary Tree
 |  |
 | ------- |
