@@ -641,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0390-elimination-game) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -896,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0390-elimination-game) |
 ## Sliding Window
 |  |
 | ------- |
