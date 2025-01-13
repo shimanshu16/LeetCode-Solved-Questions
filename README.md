@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0391-perfect-rectangle) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -1213,6 +1214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0391-perfect-rectangle) |
 ## Queue
 |  |
 | ------- |
