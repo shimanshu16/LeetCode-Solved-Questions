@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0397-integer-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0397-integer-replacement) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -990,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0397-integer-replacement) |
 ## Tree
 |  |
 | ------- |
