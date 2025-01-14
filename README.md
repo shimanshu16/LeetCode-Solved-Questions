@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0384-shuffle-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0396-rotate-function) |
 ## Two Pointers
 |  |
 | ------- |
@@ -651,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0396-rotate-function) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
