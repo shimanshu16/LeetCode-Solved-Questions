@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
@@ -858,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -869,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shimanshu16/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shimanshu16/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
