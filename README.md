@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
