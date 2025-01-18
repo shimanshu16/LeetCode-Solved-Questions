@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -823,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2509-minimize-xor) |
@@ -1002,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
