@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
@@ -864,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0420-strong-password-checker) |
+| [0435-non-overlapping-intervals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
