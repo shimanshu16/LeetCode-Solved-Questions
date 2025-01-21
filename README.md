@@ -1123,6 +1123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1257,6 +1258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0433-minimum-genetic-mutation) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
