@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -1008,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
