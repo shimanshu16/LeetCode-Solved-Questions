@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0400-nth-digit](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/shimanshu16/LeetCode/tree/master/0792-binary-search) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
@@ -718,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0441-arranging-coins) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
