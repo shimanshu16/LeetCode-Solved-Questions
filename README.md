@@ -819,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0434-number-of-segments-in-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1524-string-matching-in-an-array) |
@@ -1146,6 +1147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0341-flatten-nested-list-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
@@ -1196,6 +1198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
@@ -1240,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -1253,6 +1257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
@@ -1288,6 +1293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1325,6 +1331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
