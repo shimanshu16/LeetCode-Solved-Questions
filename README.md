@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-valid-mountain-array](https://github.com/shimanshu16/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/shimanshu16/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shimanshu16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -633,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0419-battleships-in-a-board) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
+| [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/shimanshu16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
@@ -923,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0399-evaluate-division) |
+| [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1192,6 +1196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0437-path-sum-iii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1281,6 +1286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 ## Graph
