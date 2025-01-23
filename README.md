@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
@@ -728,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0441-arranging-coins) |
+| [0447-number-of-boomerangs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0447-number-of-boomerangs) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
