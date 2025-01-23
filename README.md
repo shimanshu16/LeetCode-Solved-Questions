@@ -1146,6 +1146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0341-flatten-nested-list-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
 ## Depth-First Search
@@ -1239,6 +1240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1251,6 +1253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
