@@ -900,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0401-binary-watch](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2509-minimize-xor) |
