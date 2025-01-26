@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 ## Two Pointers
 |  |
 | ------- |
@@ -766,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -906,6 +908,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2509-minimize-xor) |
@@ -1155,6 +1158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 ## Tree
 |  |
 | ------- |
@@ -1477,6 +1481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0292-nim-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1499,4 +1504,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0399-evaluate-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
