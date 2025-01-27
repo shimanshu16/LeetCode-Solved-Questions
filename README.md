@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/shimanshu16/LeetCode/tree/master/0792-binary-search) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0475-heaters) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/shimanshu16/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -576,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
