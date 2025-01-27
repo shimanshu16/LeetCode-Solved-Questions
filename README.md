@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0467-unique-substrings-in-wraparound-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -875,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0467-unique-substrings-in-wraparound-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1524-string-matching-in-an-array) |
