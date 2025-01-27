@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/shimanshu16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0466-count-the-repetitions](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -918,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2509-minimize-xor) |
@@ -1145,6 +1148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0306-additive-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
 ## String Matching
 |  |
 | ------- |
@@ -1524,6 +1528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
