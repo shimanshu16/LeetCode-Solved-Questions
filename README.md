@@ -784,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0477-total-hamming-distance) |
+| [0479-largest-palindrome-product](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0479-largest-palindrome-product) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [0903-implement-rand10-using-rand7](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0915-generate-random-point-in-a-circle) |
@@ -1473,6 +1474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0479-largest-palindrome-product) |
 ## Number Theory
 |  |
 | ------- |
