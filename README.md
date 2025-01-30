@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/shimanshu16/LeetCode/tree/master/0792-binary-search) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
@@ -788,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0483-smallest-good-base) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [0903-implement-rand10-using-rand7](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0915-generate-random-point-in-a-circle) |
