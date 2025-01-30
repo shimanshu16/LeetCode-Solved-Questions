@@ -893,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0468-validate-ip-address](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0482-license-key-formatting) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1524-string-matching-in-an-array) |
