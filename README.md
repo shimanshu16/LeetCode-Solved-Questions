@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
+| [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 ## Two Pointers
 |  |
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0456-132-pattern) |
+| [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
@@ -899,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0482-license-key-formatting) |
+| [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -1205,6 +1208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
+| [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 ## Tree
 |  |
 | ------- |
@@ -1404,6 +1408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
+| [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
