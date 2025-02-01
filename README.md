@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -721,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0495-teemo-attacking) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
