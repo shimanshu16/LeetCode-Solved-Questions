@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 ## Two Pointers
 |  |
@@ -1193,6 +1195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0401-binary-watch](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 ## String Matching
 |  |
 | ------- |
