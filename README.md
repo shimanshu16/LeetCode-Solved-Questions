@@ -801,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0479-largest-palindrome-product](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0492-construct-the-rectangle) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [0903-implement-rand10-using-rand7](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0915-generate-random-point-in-a-circle) |
