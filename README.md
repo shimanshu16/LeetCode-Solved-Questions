@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -729,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
