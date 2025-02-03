@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
@@ -481,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
