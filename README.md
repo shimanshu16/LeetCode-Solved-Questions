@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -614,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
@@ -657,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Merge Sort
