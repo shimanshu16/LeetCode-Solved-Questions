@@ -830,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0507-perfect-number) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [0903-implement-rand10-using-rand7](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0903-implement-rand10-using-rand7) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
