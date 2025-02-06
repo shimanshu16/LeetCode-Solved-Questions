@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
+| [0514-freedom-trail](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0518-coin-change-ii) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
@@ -950,6 +951,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0482-license-key-formatting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0500-keyboard-row) |
+| [0514-freedom-trail](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
@@ -1373,6 +1375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1483,6 +1486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 | [0513-find-bottom-left-tree-value](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0514-freedom-trail](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
