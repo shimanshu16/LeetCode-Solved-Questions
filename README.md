@@ -961,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
