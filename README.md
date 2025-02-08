@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -1079,6 +1081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
