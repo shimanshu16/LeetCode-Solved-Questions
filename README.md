@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
+| [0529-minesweeper](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -756,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0529-minesweeper) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -1416,6 +1418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1530,6 +1533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
