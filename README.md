@@ -588,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -994,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0521-longest-uncommon-subsequence-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -1593,6 +1595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [2434-design-a-number-container-system](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
@@ -1625,6 +1628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
