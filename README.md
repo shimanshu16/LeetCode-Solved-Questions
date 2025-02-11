@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0537-complex-number-multiplication) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1014,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/shimanshu16/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
