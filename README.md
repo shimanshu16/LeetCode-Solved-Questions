@@ -1393,6 +1393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
 ## Depth-First Search
@@ -1453,6 +1454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0529-minesweeper](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0820-find-eventual-safe-states](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
@@ -1511,6 +1513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
