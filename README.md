@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0546-remove-boxes) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [1013-fibonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -1347,6 +1349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
+| [0546-remove-boxes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0546-remove-boxes) |
 | [1013-fibonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
