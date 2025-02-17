@@ -1027,6 +1027,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0537-complex-number-multiplication](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0551-student-attendance-record-i) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
