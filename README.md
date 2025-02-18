@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0546-remove-boxes) |
+| [0553-optimal-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0553-optimal-division) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [1013-fibonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -905,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0553-optimal-division) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [0903-implement-rand10-using-rand7](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0912-random-pick-with-weight) |
