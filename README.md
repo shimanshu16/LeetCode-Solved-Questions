@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0556-next-greater-element-iii) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/shimanshu16/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -913,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0537-complex-number-multiplication](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0556-next-greater-element-iii) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [0903-implement-rand10-using-rand7](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0912-random-pick-with-weight) |
@@ -1038,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0556-next-greater-element-iii) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
