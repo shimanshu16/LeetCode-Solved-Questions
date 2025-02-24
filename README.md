@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/shimanshu16/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shimanshu16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -1442,6 +1443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1511,6 +1513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -1637,6 +1640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
@@ -1655,6 +1659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Design
 |  |
