@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/shimanshu16/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shimanshu16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -837,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3447-clear-digits) |
