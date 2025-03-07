@@ -951,6 +951,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1758,6 +1759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
+| [2610-closest-prime-numbers-in-range](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 ## Topological Sort
 |  |
 | ------- |
