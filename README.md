@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shimanshu16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-count-good-triplets-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/shimanshu16/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shimanshu16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
