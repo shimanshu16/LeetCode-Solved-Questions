@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/shimanshu16/LeetCode/tree/master/0493-reverse-pairs) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
+| [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
@@ -1516,6 +1517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
+| [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
