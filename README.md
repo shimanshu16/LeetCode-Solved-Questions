@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3723-sum-of-good-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3723-sum-of-good-numbers) |
+| [3763-separate-squares-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3763-separate-squares-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
+| [3763-separate-squares-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3763-separate-squares-i) |
 ## Divide and Conquer
 |  |
 | ------- |
