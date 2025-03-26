@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -739,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/shimanshu16/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
@@ -859,6 +861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -985,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
