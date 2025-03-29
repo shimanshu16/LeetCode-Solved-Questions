@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2831-number-of-beautiful-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2831-number-of-beautiful-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2902-max-pair-sum-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -566,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -754,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1012,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2649-count-total-number-of-colored-cells](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2831-number-of-beautiful-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2831-number-of-beautiful-pairs) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -1236,6 +1241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2509-minimize-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Quickselect
 |  |
 | ------- |
@@ -1848,6 +1854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2831-number-of-beautiful-pairs) |
+| [3001-apply-operations-to-maximize-score](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Topological Sort
 |  |
 | ------- |
