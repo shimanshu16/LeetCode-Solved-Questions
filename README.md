@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0546-remove-boxes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0769-largest-plus-sign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0769-largest-plus-sign) |
@@ -748,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
@@ -1003,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0790-global-and-local-inversions](https://github.com/shimanshu16/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [0903-implement-rand10-using-rand7](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0912-random-pick-with-weight) |
