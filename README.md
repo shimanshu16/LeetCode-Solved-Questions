@@ -1579,6 +1579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0563-binary-tree-tilt) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
@@ -1647,6 +1648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0563-binary-tree-tilt) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0820-find-eventual-safe-states](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
@@ -1711,6 +1713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0563-binary-tree-tilt) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
