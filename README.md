@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
+| [2122-count-special-quadruplets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
+| [2122-count-special-quadruplets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2122-count-special-quadruplets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1898,6 +1900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0479-largest-palindrome-product](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0479-largest-palindrome-product) |
 | [1656-count-good-triplets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2122-count-special-quadruplets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2122-count-special-quadruplets) |
 | [2998-count-symmetric-integers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
