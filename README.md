@@ -2013,4 +2013,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0903-implement-rand10-using-rand7) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
