@@ -1,54 +1,69 @@
-class Solution {
-public:
+struct SegmentTree {
+    int n;
+    vector<int> tree;
 
-    inline int lastOne(int x) {
-        return x & (-x);
-    }
-    
-    void updateFenwickTree(vector<int>& fenwickTree, int index, int delta) {
-        for(;index < fenwickTree.size(); index += lastOne(index)) {
-            fenwickTree[index] += delta; 
-        }
-    }
-    
-    int getPrefixSum(vector<int>& fenwickTree, int index) {
-        int prefixSum = 0; 
-        for(;index;index -= lastOne(index)) {
-            prefixSum += fenwickTree[index];
-        }
-        return prefixSum; 
-    }
-    
-    int getRangeSum(vector<int>& fenwickTree, int startIndex, int endIndex) {
-        return getPrefixSum(fenwickTree,endIndex) - (startIndex == 1?0:getPrefixSum(fenwickTree,startIndex-1));
-    }
-    
-    long long goodTriplets(vector<int>& nums1, vector<int>& nums2) {
-        const int vectorSize = nums1.size(); 
-        vector<int> indexPositions(vectorSize);
-        for(int i = 0; i < vectorSize; i++) {
-            indexPositions[nums1[i]] = i;
-        }
-     
-        long long goodTripletCount = 0; 
+    SegmentTree(int size) : n(size), tree(4 * size, 0) {}
 
-        vector<int> fenwickTree(vectorSize + 5);
-        vector<int> smallerElementsToRight(vectorSize);
-        for(int i = vectorSize - 1; i >= 0; i--) {
-            int index = indexPositions[nums2[i]];
-            
-            smallerElementsToRight[nums2[i]] = getRangeSum(fenwickTree,index + 1,vectorSize + 1);
-            updateFenwickTree(fenwickTree,index + 1,1);
+    void update(int idx, int l, int r, int pos, int val) {
+        if (l == r) {
+            tree[idx] += val;
+            return;
         }
-     
-        fenwickTree.assign(vectorSize + 5,0);
-        for(int i = 0; i < vectorSize; i++) {
-          
-            int index = indexPositions[nums2[i]];
-            long long smallerElementsBefore = getPrefixSum(fenwickTree,index);
-            goodTripletCount += smallerElementsBefore * smallerElementsToRight[nums2[i]];
-            updateFenwickTree(fenwickTree,index + 1,1);
-        }
-    return goodTripletCount;
+        int mid = (l + r) / 2;
+        if (pos <= mid)
+            update(2 * idx, l, mid, pos, val);
+        else
+            update(2 * idx + 1, mid + 1, r, pos, val);
+        tree[idx] = tree[2 * idx] + tree[2 * idx + 1];
+    }
+
+    int query(int idx, int l, int r, int ql, int qr) {
+        if (qr < l || r < ql) return 0;
+        if (ql <= l && r <= qr) return tree[idx];
+        int mid = (l + r) / 2;
+        return query(2 * idx, l, mid, ql, qr) +
+               query(2 * idx + 1, mid + 1, r, ql, qr);
+    }
+
+    void add(int pos, int val) {
+        update(1, 0, n - 1, pos, val);
+    }
+
+    int sum(int pos) {
+        return query(1, 0, n - 1, 0, pos);
     }
 };
+
+class Solution {
+public:
+    long long goodTriplets(vector<int>& nums1, vector<int>& nums2) {
+        const int n = nums1.size();
+        vector<int> id2(n);
+        for (int i = 0; i < n; i++)
+            id2[nums2[i]] = i;
+
+        vector<int> inv(n);
+        for (int i = 0; i < n; i++)
+            inv[id2[nums1[i]]] = i;
+
+        SegmentTree tree(n);
+
+        long long ans = 0;
+        for (int x = 0; x < n; x++) {
+            int pos = inv[x];
+            long long L = tree.sum(pos);
+            tree.add(pos, 1);
+            long long R = (n - 1 - pos) - (x - L);
+            ans += L * R;
+        }
+
+        return ans;
+    }
+};
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
