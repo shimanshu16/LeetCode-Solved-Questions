@@ -1603,6 +1603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1672,6 +1673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0565-array-nesting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0565-array-nesting) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1802,6 +1804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
