@@ -2033,6 +2033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0262-trips-and-users) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1179-game-play-analysis-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
