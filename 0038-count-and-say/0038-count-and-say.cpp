@@ -1,30 +1,27 @@
 class Solution {
 public:
-    
-    string RLE(string s, int n){
-        
-        if(n == 1){
-            return s;
-        }
-        int i=0;
-        string ans = "";
-        int j=0;
-        while(i<s.length()){ 
-           int count = 0; 
-          while(j<s.length() && s[i] == s[j]){
-            j++;
-          }
-         count = j-i;
-          ans += to_string(count);
-          ans.push_back(s[i]);
-          i=j;
-        }
-        n--;
-        return RLE(ans, n);
-    }
     string countAndSay(int n) {
-        if(n == 1) return "1";
-        string s ="1";
-        return RLE(s,n);
+        string res = "1";
+        helper(1, n, res);
+        return res;
+    }
+
+    void helper(int ind, int n, string& res) {
+        if (ind >= n)
+            return;
+        string prev_val = res;
+        res = "";
+        int left = 0, count = 0;
+        for (int right = 0; right < prev_val.size(); right++) {
+            if (prev_val[left] != prev_val[right]) {
+                res += to_string(count) + prev_val[left];
+                left = right;
+                count = 1;
+            } else {
+                count++;
+            }
+        }
+        res += to_string(count) + prev_val[left];
+        return helper(ind + 1, n, res);
     }
 };
