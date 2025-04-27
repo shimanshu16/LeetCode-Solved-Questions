@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3723-sum-of-good-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3723-sum-of-good-numbers) |
 | [3763-separate-squares-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3763-separate-squares-i) |
 ## Binary Search
