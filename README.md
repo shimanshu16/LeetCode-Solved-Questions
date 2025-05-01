@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/shimanshu16/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -802,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2681-put-marbles-in-bags) |
@@ -1306,6 +1309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1169-largest-values-from-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2509-minimize-xor) |
@@ -1980,12 +1984,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Interactive
 |  |
