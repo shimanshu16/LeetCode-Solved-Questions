@@ -492,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0552-student-attendance-record-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0629-k-inverse-pairs-array) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
@@ -1202,6 +1203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0551-student-attendance-record-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0583-delete-operation-for-two-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0768-partition-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0868-push-dominoes) |
