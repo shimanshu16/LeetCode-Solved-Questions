@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0553-optimal-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0576-out-of-boundary-paths) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0629-k-inverse-pairs-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0629-k-inverse-pairs-array) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0769-largest-plus-sign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0769-largest-plus-sign) |
 | [0868-push-dominoes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0868-push-dominoes) |
