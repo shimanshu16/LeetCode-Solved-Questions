@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-valid-mountain-array](https://github.com/shimanshu16/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1169-largest-values-from-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1313,6 +1314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1169-largest-values-from-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
