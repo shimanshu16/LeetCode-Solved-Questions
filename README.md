@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2122-count-special-quadruplets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2122-count-special-quadruplets) |
@@ -968,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0537-complex-number-multiplication) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shimanshu16/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
