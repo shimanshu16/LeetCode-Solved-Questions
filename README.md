@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0587-erect-the-fence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0587-erect-the-fence) |
 | [0611-valid-triangle-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0629-k-inverse-pairs-array) |
+| [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0769-largest-plus-sign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0769-largest-plus-sign) |
@@ -1284,6 +1286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1573,6 +1576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
 | [1160-letter-tile-possibilities](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -1609,6 +1613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0488-zuma-game) |
 | [0546-remove-boxes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0546-remove-boxes) |
+| [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
 | [1013-fibonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -2082,6 +2087,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
 ## Rejection Sampling
 |  |
 | ------- |
