@@ -504,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0629-k-inverse-pairs-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0629-k-inverse-pairs-array) |
 | [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
 | [0639-decode-ways-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0639-decode-ways-ii) |
+| [0664-strange-printer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0769-largest-plus-sign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0769-largest-plus-sign) |
@@ -1221,6 +1222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0639-decode-ways-ii) |
+| [0664-strange-printer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0664-strange-printer) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0768-partition-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0868-push-dominoes) |
