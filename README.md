@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2048-build-array-from-permutation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1909,6 +1911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
