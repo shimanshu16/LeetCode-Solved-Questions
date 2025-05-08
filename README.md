@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2792-neighboring-bitwise-xor) |
@@ -884,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2681-put-marbles-in-bags) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -961,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1894,6 +1897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -1917,6 +1921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -2091,6 +2096,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bitmask
