@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/shimanshu16/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
+| [0860-design-circular-queue](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0860-design-circular-queue) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -1495,6 +1496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0860-design-circular-queue](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -1964,6 +1966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0715-range-module](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0715-range-module) |
+| [0860-design-circular-queue](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0860-design-circular-queue) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2434-design-a-number-container-system) |
@@ -2046,6 +2049,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0860-design-circular-queue) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
