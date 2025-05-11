@@ -1248,6 +1248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
+| [1211-iterator-for-combination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1211-iterator-for-combination) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1604,6 +1605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
 | [1160-letter-tile-possibilities](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
+| [1211-iterator-for-combination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1211-iterator-for-combination) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1968,6 +1970,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0535-encode-and-decode-tinyurl](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0715-range-module](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0715-range-module) |
 | [0860-design-circular-queue](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0860-design-circular-queue) |
+| [1211-iterator-for-combination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1211-iterator-for-combination) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2434-design-a-number-container-system) |
@@ -1992,6 +1995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [1211-iterator-for-combination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1211-iterator-for-combination) |
 ## Rolling Hash
 |  |
 | ------- |
