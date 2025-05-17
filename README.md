@@ -523,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
@@ -1113,6 +1114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0915-generate-random-point-in-a-circle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0915-generate-random-point-in-a-circle) |
 | [0963-three-equal-parts](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0963-three-equal-parts) |
 | [1013-fibonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1500-count-largest-group) |
@@ -1664,6 +1666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0546-remove-boxes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0546-remove-boxes) |
 | [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
 | [1013-fibonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
