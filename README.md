@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0699-falling-squares](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0699-falling-squares) |
+| [0740-delete-and-earn](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0769-largest-plus-sign) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
+| [0740-delete-and-earn](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0769-largest-plus-sign) |
 | [0806-domino-and-tromino-tiling](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0806-domino-and-tromino-tiling) |
@@ -740,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0740-delete-and-earn](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
