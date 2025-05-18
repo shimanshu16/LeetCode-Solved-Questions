@@ -531,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
