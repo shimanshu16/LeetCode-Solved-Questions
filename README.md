@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2591-frog-jump-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shimanshu16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-count-good-triplets-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/shimanshu16/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2591-frog-jump-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shimanshu16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2690-house-robber-iv) |
@@ -1392,6 +1394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2509-minimize-xor) |
+| [2591-frog-jump-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2591-frog-jump-ii) |
 | [2681-put-marbles-in-bags](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
