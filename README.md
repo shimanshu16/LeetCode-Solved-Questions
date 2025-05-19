@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [0860-design-circular-queue](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0860-design-circular-queue) |
+| [0876-hand-of-straights](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -749,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
+| [0876-hand-of-straights](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0913-random-flip-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0913-random-flip-matrix) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -845,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
+| [0876-hand-of-straights](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/shimanshu16/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -1386,6 +1389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
+| [0876-hand-of-straights](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0876-hand-of-straights) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1169-largest-values-from-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
