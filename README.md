@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0639-decode-ways-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0747-min-cost-climbing-stairs) |
@@ -646,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1272,6 +1274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0730-count-different-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0768-partition-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0868-push-dominoes) |
@@ -1387,6 +1390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0517-super-washing-machines](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0517-super-washing-machines) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0876-hand-of-straights) |
