@@ -1452,6 +1452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -1816,6 +1817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0801-is-graph-bipartite](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1947,6 +1949,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0801-is-graph-bipartite](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
@@ -1974,6 +1977,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
