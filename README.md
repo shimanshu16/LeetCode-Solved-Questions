@@ -542,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -780,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1904-second-largest-digit-in-a-string](https://github.com/shimanshu16/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2107-find-unique-binary-string) |
 | [2122-count-special-quadruplets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2122-count-special-quadruplets) |
@@ -902,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1712,6 +1715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
 | [1013-fibonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Tree
 |  |
 | ------- |
@@ -2012,6 +2016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -2119,6 +2124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
