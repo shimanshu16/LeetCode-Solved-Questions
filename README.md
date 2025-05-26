@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/shimanshu16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1706-min-cost-to-connect-all-points](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shimanshu16/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
@@ -1488,6 +1489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
+| [1706-min-cost-to-connect-all-points](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -2029,6 +2031,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
+| [1706-min-cost-to-connect-all-points](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -2264,4 +2267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0607-sales-person](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0607-sales-person) |
 | [1179-game-play-analysis-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1182-game-play-analysis-iv) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
