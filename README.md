@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2902-max-pair-sum-in-an-array](https://github.com/shimanshu16/LeetCode/tree/master/2902-max-pair-sum-in-an-array) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3643-zero-array-transformation-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3763-separate-squares-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3763-separate-squares-i) |
 ## Divide and Conquer
@@ -943,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2681-put-marbles-in-bags) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1025,6 +1028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1489,6 +1493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Binary Indexed Tree
@@ -2006,6 +2011,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
