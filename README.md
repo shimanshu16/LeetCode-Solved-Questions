@@ -1876,6 +1876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-course-schedule-iv](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
@@ -2051,6 +2052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
