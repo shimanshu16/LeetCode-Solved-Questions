@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0963-three-equal-parts](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0963-three-equal-parts) |
 | [0978-valid-mountain-array](https://github.com/shimanshu16/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1169-largest-values-from-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1169-largest-values-from-labels) |
@@ -1159,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0915-generate-random-point-in-a-circle](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0915-generate-random-point-in-a-circle) |
 | [0963-three-equal-parts](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0963-three-equal-parts) |
 | [1013-fibonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
