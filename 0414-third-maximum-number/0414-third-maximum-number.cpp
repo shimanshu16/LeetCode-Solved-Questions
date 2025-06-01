@@ -1,18 +1,27 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        if (nums.size() == 1)
-            return nums[0];
-        sort(nums.begin(), nums.end(), greater<>());
-        int i, cnt = 0;
-        for(i = 1; i < nums.size(); i++) {
-            if(cnt == 2)
-                return nums[i-1];
-            if(nums[i] != nums[i-1])
-                cnt++;
+        //long long lenge
+        long long first = LLONG_MIN;          //largest
+        long long second = LLONG_MIN;          //second largest
+        long long third = LLONG_MIN;          //third largest
+
+        //loop chlayenge each number pr array main
+        for(int num : nums){       //initialize
+            if (num == first || num == second || num ==third)          //condition
+            continue;
+            // update the top three numbers
+            if (num > first){
+                third = second;
+                second = first;
+                first = num;
+            } else if (num > second){
+                third = second;
+                second = num;
+            } else if ( num > third){
+                third = num;
+            }
         }
-        if(cnt == 2)
-            return nums[i-1];
-        return nums[0];
+        return third == LLONG_MIN ? first : third;
     }
 };
