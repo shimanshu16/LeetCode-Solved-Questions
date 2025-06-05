@@ -1316,6 +1316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
@@ -1498,6 +1499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
