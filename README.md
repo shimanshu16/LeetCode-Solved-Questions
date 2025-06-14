@@ -1187,6 +1187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2831-number-of-beautiful-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2831-number-of-beautiful-pairs) |
 | [2998-count-symmetric-integers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2998-count-symmetric-integers) |
@@ -1460,6 +1461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2591-frog-jump-ii](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2591-frog-jump-ii) |
 | [2681-put-marbles-in-bags](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
