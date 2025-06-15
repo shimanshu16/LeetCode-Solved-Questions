@@ -1177,6 +1177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/shimanshu16/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -1454,6 +1455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1169-largest-values-from-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
