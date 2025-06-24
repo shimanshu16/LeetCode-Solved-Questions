@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0553-optimal-division](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0587-erect-the-fence) |
 | [0611-valid-triangle-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0611-valid-triangle-number) |
@@ -1041,6 +1042,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0566-reshape-the-matrix) |
 | [0772-construct-quad-tree](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0945-snakes-and-ladders) |
@@ -1076,6 +1078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0566-reshape-the-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shimanshu16/LeetCode/tree/master/2058-concatenation-of-array) |
