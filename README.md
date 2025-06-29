@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/shimanshu16/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/shimanshu16/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-random-pick-with-weight](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1772-create-sorted-array-through-instructions](https://github.com/shimanshu16/LeetCode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -635,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/shimanshu16/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/shimanshu16/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shimanshu16/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -901,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/shimanshu16/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1169-largest-values-from-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1256-rank-transform-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shimanshu16/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shimanshu16/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shimanshu16/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
