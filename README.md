@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0587-erect-the-fence) |
+| [0594-longest-harmonious-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0638-shopping-offers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0638-shopping-offers) |
@@ -786,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0535-encode-and-decode-tinyurl](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/shimanshu16/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shimanshu16/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0740-delete-and-earn) |
@@ -894,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shimanshu16/LeetCode/tree/master/0645-set-mismatch) |
@@ -937,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1169-largest-values-from-labels](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1169-largest-values-from-labels) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1703,6 +1707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shimanshu16/LeetCode-Solved-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
